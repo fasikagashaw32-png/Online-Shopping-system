@@ -3,8 +3,8 @@ Online Shopping System MVP
 A lightweight, console-based Online Shopping System built in Java to demonstrate core Object-Oriented Programming (OOP) concepts. This system simulates an end-to-end e-commerce flow, including user registration, inventory browsing, shopping cart management, stock tracking, and checkout simulation.
 
 👨‍💻 Developed By
-Fasika Gashaw — Student ID: 0058
-Kelkias Moges
+Fasika Gashaw — Student ID: 26
+Kelkias Moges— Student ID:0058/26
 🚀 Features
 User Management: Supports a base User blueprint with specialized subclasses for Customer and Admin users.
 Dynamic Inventory: Displays items grouped by categories (Electronics, Clothing) with real-time stock levels.
